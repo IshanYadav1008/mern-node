@@ -1111,6 +1111,6 @@ Commands:
 
 => git add .
 
-=> git commit -m "Commit Message"
+=> git commit -m "Pushed mern-node app"
 
 => git push origin master
